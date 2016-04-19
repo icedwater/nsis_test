@@ -1,0 +1,4 @@
+script_name,nsis_version,32_7,32_8,32_10,64_7,64_8,64_10,S_08,S_12
+bare_minimum,ubuntu-2.46-7,0,0,0,0,0,0,0,0
+hello_world,ubuntu-2.46-7,0,0,0,0,0,0,0,0
+hw_text,ubuntu-2.46-7,0,0,0,0,0,0,0,0

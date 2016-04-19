@@ -1,0 +1,6 @@
+# Don't add the actual installers
+*.exe
+
+# Or swap files
+*~
+*.swp
